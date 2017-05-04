@@ -227,6 +227,8 @@
 /RAVBA-M/project/vs2012_mfc/*.opensdf
 /RAVBA-M/src/filters/temp.obj
 /RAVBA-M/src/temp.obj
+/RAProject64/output/debug
+/RAProject64/Debug
 /Debug
 /Release
 /ipch
