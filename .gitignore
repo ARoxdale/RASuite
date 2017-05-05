@@ -228,7 +228,10 @@
 /RAVBA-M/src/filters/temp.obj
 /RAVBA-M/src/temp.obj
 /RAProject64/output/debug
-/RAProject64/Debug
+/RAProject64/Debug/Project64.log
+/RAProject64/.vs
+/RAProject64/Project64.VC.db
+/RAProject64/Project64.vcxproj.user
 /Debug
 /Release
 /ipch
